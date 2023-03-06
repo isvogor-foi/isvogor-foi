@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @isvogor-foi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ivan
+- 👀 I’m interested in Software Architecture. 
+- 🌱 I’m currently learning about Software Architecture. 
+- 💞️ I’m looking to collaborate on a side-hustle. 
+- 📫 You can reach me here. 
 
 <!---
 isvogor-foi/isvogor-foi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
